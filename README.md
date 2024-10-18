@@ -1,6 +1,6 @@
 # EPS / Homiris Home Assistant integration
 
-The EPS integration provides connectivity with alarm systems based on [EPS](https://www.eps.fr/) like [Homiris](https://www.homiris.fr/). Some other companies (ex: Homiris) distribute those systems.
+The EPS integration provides connectivity with alarm systems based on [EPS](https://www.eps.fr/) . Some other companies (ex: [Homiris](https://www.homiris.fr/)) distribute those systems.
 
 It allows to get the state of your alarm system.
 
